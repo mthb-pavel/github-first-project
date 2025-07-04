@@ -1,0 +1,18 @@
+p{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin: 20px 10px 40px 50px;
+   padding: 30px;
+
+}
+
+h1{
+    background-color: rgb(52, 52, 226);
+
+    border: 30px;
+    padding: 40px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+
+}
