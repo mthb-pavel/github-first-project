@@ -4,6 +4,11 @@ p{
     font-style: italic;
     margin: 20px 10px 40px 50px;
    padding: 30px;
+   border: 30px 20px 40px 50px;
+   border-style: solid;
+   border-color: rgb(62, 230, 28);
+   box-shadow: 20px;
+b
 
 }
 
@@ -14,5 +19,15 @@ h1{
     padding: 40px;
     padding-bottom: 30px;
     margin-top: 50px;
+    
+
+}
+div{
+    border: 20px blueviolet solid;
+    padding: 30px;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic; 
+    box-shadow: 30px 20px 10px 40px rgb(238, 85, 47);
 
 }
